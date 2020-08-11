@@ -1,9 +1,9 @@
 ### Hello!
 
-- 🔭 I’m currently working with: React
-- 💬 Ask me about: astronomy! my former life.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am actually three pugs in a trenchcoat
+- 🔭  I’m currently working with: React
+- 💬  Ask me about: astronomy! my former life.
+- 😄  Pronouns: she/her
+- ⚡  Fun fact: I am actually three pugs in a trenchcoat
 
 
 <!--
