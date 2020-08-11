@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello!
+
+- 🔭 I’m currently working with: React
+- 💬 Ask me about: astronomy! my former life.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am actually three pugs in a trenchcoat
+
 
 <!--
 **katy6514/katy6514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
